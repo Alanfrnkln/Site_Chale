@@ -1,2 +1,7 @@
-# Site_Chale
- Site simples utilizando HTML/CSS
+# Site Chalé
+
+Site simples utilizando HTML/CSS
+
+## Página Inicial
+
+![](print/homepage.png)
